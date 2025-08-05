@@ -1,0 +1,11 @@
+Restaurant_Rating,Delivery_Distance_km,Delivery_Person_Age,Traffic_Conditions,Weather_Conditions,Delivery_Time
+4.5,3.2,25,Low,Clear,30
+3.2,5.5,32,High,Rainy,50
+4.0,2.8,29,Medium,Cloudy,28
+4.8,4.0,24,Low,Clear,32
+3.9,3.5,27,High,Rainy,45
+4.1,6.2,30,Medium,Clear,36
+2.9,4.1,33,High,Rainy,60
+3.5,3.0,26,Low,Cloudy,33
+4.2,5.0,28,Medium,Clear,40
+4.0,4.6,31,High,Rainy,55
